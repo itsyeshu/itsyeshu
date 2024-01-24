@@ -3,7 +3,7 @@
 ## About Me
 
 Hello, I'm Shubham! I am a full-stack web-developer based in India.<br/>
-I'm a 2022 IIT Guwahati grad, and for the past 4 years. I've been the driving force behind tech-teams at startups, propelling them to new heights.
+IIT Guwahati grad with 3 Years' experience. Full-stack developer skilled in ReactJS, Django, Express, NodeJS, Mern, Mongodb, MySQL. Proven leader at startups, building impacting software. Managing web-applications on AWS, Microsoft Azure, GCP.
 
 ## Portfolio Site
 
